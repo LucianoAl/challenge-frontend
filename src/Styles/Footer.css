@@ -1,0 +1,128 @@
+.fixed-bottom{
+    position: static;
+    bottom: 0% !important;
+    margin: 0;
+}
+
+.footer-main{
+
+    background-color: transparent !important;
+}
+
+.address-main > div.col-lg-4 {
+    border-bottom: dotted 1px #999;
+}
+.address-box {
+    width: 350px;
+    padding: 10px 0;
+    margin-bottom: 30px;
+}
+.add-icon{
+    width: 60px;
+    display: inline-block;
+    padding: 0px 5px;
+    margin: 0px 40px;
+}
+.address-box .add-icon {
+    height: 75px;
+    line-height: 75px;
+    width: 75px;
+    margin-right: 20px;
+    text-align: center;
+
+}
+.add-icon{
+    width: 100%;
+    background-color: rgba(216, 216, 216, 0.87);
+    border-radius: 50px;
+}
+.address-box .add-icon img {
+    max-width: 40px;
+}
+.add-content{
+    padding-left: 70px;
+}
+.add-content h5 {
+    font-size: 18px;
+    color: #ffffff;
+    padding: 0;
+    font-weight: bolder;
+    margin-bottom: 10px;
+}
+.add-content p {
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: bold;
+    text-align: left;
+}
+.add-content p {
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 300;
+    word-wrap: break-word;
+}
+
+.footer-main{
+    padding-top: 90px;
+}
+
+.address-main > div.col-lg-4 {
+    border-bottom: dotted 1px #ffffff;
+}
+.address-box {
+    padding: 10px 0;
+    margin-bottom: 30px;
+}
+.add-icon{
+    float: left;
+    width: 60px;
+    display: inline-block;
+    padding: 0px 5px;
+}
+.address-box .add-icon {
+    height: 75px;
+    line-height: 75px;
+    width: 75px;
+    margin-right: 20px;
+    text-align: center;
+}
+.add-icon img{
+    width: 100%;
+}
+.address-box .add-icon img {
+    max-width: 40px;
+}
+.add-content{
+    padding-left: 70px;
+}
+.add-content h5 {
+    font-size: 18px;
+    color: #ffffff;
+    padding: 0;
+    font-weight: 500;
+    margin-bottom: 10px;
+}
+.add-content p {
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 300;
+}
+.add-content p a{
+    font-size: 16px;
+    color: #ffffff;
+    font-weight: 300;
+    word-wrap: break-word;
+}
+
+.bg-dark{
+    background-color: transparent !important;
+}
+
+.m-1 {
+    margin: 0.25rem!important;
+    border-radius: 20px;
+}
+
+.p-3 {
+    padding: 0rem!important;
+}
