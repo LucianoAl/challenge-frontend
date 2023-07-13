@@ -1,0 +1,46 @@
+.navbar {
+    width: 100vw;
+    height: 20vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.imgNav{
+    width: 150px;
+}
+
+.container-fluid {
+    width: 85% !important;
+}
+
+.dropdown-menu {
+    cursor: pointer;
+}
+
+.nav-item {
+    margin: 0px 15px;
+}
+
+.nav-link {
+    width: 180px;
+    color: #1b0c5e;
+    font-size: 20px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+.nav-linkI {
+    width: 180px;
+    font-size: 20px;
+    background-color: rgb(27, 12, 94);
+    color: white;
+    border-radius: 30px;
+    text-align: center;
+    padding: 8px;
+}
+
+
+.navbar-brand {
+    margin-left: 50px;
+}
