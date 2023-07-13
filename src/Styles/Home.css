@@ -1,0 +1,44 @@
+.imgHome {
+    width: 100vw;
+    height: 120vh;
+}
+
+.c-f {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: center;
+    background-image: url(../images/Footer.png);
+    background-repeat: no-repeat;
+    background-size: 100vw 150vh;
+    background-color: none;
+}
+
+.c-f h1 {
+    margin: 40px 0px;
+}
+
+.contenedorTarjetas {
+    width: 100vw;
+    display: flex;
+    flex-direction: row !important;
+    justify-content: space-around;
+}
+
+.paginainicio {
+    background-image: url(../images/logoGrande.png);
+    background-repeat: no-repeat;
+    background-position: 10vw 10vh;
+    background-size: 70%;
+}
+
+@media screen and  (max-width: 800px) {
+    .paginainicio{
+        background-position: 8vw 17vh;
+        background-size: 83%;
+    }
+
+    .c-f {
+        background-size: 100vw 189vh;
+    }
+}

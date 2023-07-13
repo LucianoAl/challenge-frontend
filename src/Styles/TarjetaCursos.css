@@ -1,0 +1,40 @@
+.card{
+    width: 20rem;
+    height: 28rem;
+    margin: 0px 20px 100px 20px;
+}
+
+.card-img-top{
+    height: 50%;
+}
+
+.card-body{
+    display: flex;
+    flex-direction: column;
+    text-align: left;
+    color: black;
+}
+
+.card-body h5{
+    font-weight: bolder;
+}
+
+.card-body p{
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.card-body span{
+    font-size: 14px;
+}
+
+.btn{
+    background-color: #44154b;
+    border: solid 2px #44154b;
+    margin-top: 10px;
+}
+
+.btn:hover{
+    background-color: #823d8d;
+    border: solid 2px #823d8d;
+}
