@@ -17,16 +17,16 @@
     margin: 40px 0px ;
 }
 
-.contenedorTarjetas{
-    width: 100vw;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
-
 .paginainicio{
     background-image: url(../imagenes/logoGrande.png);
     background-repeat: no-repeat;
     background-position: 10vw 5vh;
     background-size: 70%;
+}
+
+.contenedorTarjetas{
+    width: 100vw;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
